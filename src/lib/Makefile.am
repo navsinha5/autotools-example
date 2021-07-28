@@ -1,0 +1,2 @@
+
+SUBDIRS = libsome libsomeother

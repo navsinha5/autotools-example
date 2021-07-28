@@ -1,0 +1,7 @@
+## Installation 
+```
+autoreconf -vi
+mkdir build && cd build
+../configure
+make
+```
